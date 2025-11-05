@@ -1,1 +1,5 @@
 HELLO WORLD!
+
+git status  demonstra o estado do projeto(ficheiros ou alteraçôes a adicionar)
+git add . -> adiciona todos os ficheiros
+git commit - 
